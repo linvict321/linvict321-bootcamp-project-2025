@@ -1,0 +1,1 @@
+var blogContainer = document.getElementById('blog-container');
